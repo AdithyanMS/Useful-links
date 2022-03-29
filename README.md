@@ -1,7 +1,7 @@
 # Useful-links
 Some useful links related to tech
 
-##Vim commands 
+## Vim commands 
 <https://thevaluable.dev/vim-commands-beginner/>
 
 ## rizonrice.club
