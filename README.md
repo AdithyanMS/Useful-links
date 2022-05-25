@@ -8,3 +8,6 @@ Some useful links related to tech
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
 [Customize lightdm](https://terminalroot.com/customize-lightdm-on-arch-linux/)
+
+[Postgresql installation](https://techviewleo.com/install-postgresql-on-arch-manjaro-garuda-linux/)
+
