@@ -11,3 +11,4 @@ Some useful links related to tech
 
 [Postgresql installation](https://techviewleo.com/install-postgresql-on-arch-manjaro-garuda-linux/)
 
+[URXVT customization](https://smarttech101.com/urxvt-installation-color-scheme-fonts-resize-etc/)
